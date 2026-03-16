@@ -6,9 +6,9 @@
 
 | | |
 |---|---|
-| Коллекция | `EQBoON73hvFpPfHf_6DGgc2PnKeRrFFEpFwycPvU9Ob2xCeN` |
-| Картинка (IPFS) | `bafybeiebmizjzhwuocgehtnybc74gb2crw234xzd2p2fsuuo22vngspdz4` |
-| Lottie JSON (IPFS) | `bafybeiejsrgwjne7r2atqykbvzvvz2a6tefosgn75gqukgdeyivned2ra4` |
+| Коллекция | `...` |
+| Картинка (IPFS) | `...` |
+| Lottie JSON (IPFS) | `...` |
 
 ## Установка
 
