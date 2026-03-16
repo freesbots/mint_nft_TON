@@ -1,0 +1,17 @@
+{
+  "name": "sportbull-nft-mint",
+  "version": "1.0.0",
+  "description": "Mint SportBull NFT into existing TON collection",
+  "main": "mint.js",
+  "scripts": {
+    "mint": "node mint.js",
+    "check": "node check-collection.js"
+  },
+  "dependencies": {
+    "@ton/core": "^0.59.0",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^15.1.0",
+    "@pinata/sdk": "^2.1.0",
+    "dotenv": "^16.4.5"
+  }
+}
